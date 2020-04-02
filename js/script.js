@@ -30,7 +30,7 @@ function submitAns(){
     }
     //Display Results
     var result=document.getElementById('results');
-    result.innerHTML="<h3>You scored <span>"+score+"</span></h3>"
-    alert("Your Score is "+score);
+    result.innerHTML="<h3>Your score is <span>"+score+"</span></h3>";
+   
     return false;
 }
