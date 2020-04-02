@@ -11,3 +11,4 @@ But as it evolved, JavaScript became a fully independent language with its own s
 Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called the JavaScript engine.
 
 Here I have developed the basic quiz system using Javascript.
+link: https://pm0824.github.io/Javascript-Quiz/
